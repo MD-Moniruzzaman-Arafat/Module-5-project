@@ -85,3 +85,29 @@ li a {
 .image img {
     margin-left: 150px;
 }
+
+/* about me section */
+.about-me-container {
+    background-color: #FFF8F3;
+    width: 1140px;
+    height: 550px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.about-me {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 140px;
+}
+
+.about-me h3 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.address {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
