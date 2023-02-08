@@ -86,6 +86,11 @@ li a {
     margin-left: 150px;
 }
 
+main {
+    background-color: #FCFCFC;
+    padding: 50px 0;
+}
+
 /* about me section */
 .about-me-container {
     background-color: #FFF8F3;
@@ -110,4 +115,40 @@ li a {
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
+}
+
+/* what do section */
+
+.what-do-title {
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.what-do-title h3 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.technologies-container {
+    width: 800px;
+    margin: 100px auto;
+    display: flex;
+    gap: 20px;
+}
+
+.technologies {
+    width: 200px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.technologies h5 {
+    margin: 10px 0;
+}
+
+.technologies p {
+    font-size: 15px;
+    text-align: justify;
 }
