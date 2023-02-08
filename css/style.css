@@ -152,3 +152,27 @@ main {
     font-size: 15px;
     text-align: justify;
 }
+
+.resume-container h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.resume-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.resume {
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.educatison h3 {
+    margin-bottom: 20px;
+}
+
+.experience h3 {
+    margin-bottom: 20px;
+}
